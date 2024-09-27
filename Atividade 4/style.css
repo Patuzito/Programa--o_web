@@ -1,0 +1,153 @@
+body {
+    background-image: url(https://i.pinimg.com/564x/f4/30/ae/f430ae0cd260924e8bd192490adc1ee3.jpg);
+}
+
+
+* {
+    margin: 0;
+}
+
+
+header {
+    text-align: right;
+    color: rgb(234, 221, 198);
+    background-image: url(https//i.pinimg.com/564x/f4/30/ae/f430ae0cd260924e8bd192490adc1ee3.jpg);
+
+    font-size: 20px;
+}
+ 
+a {
+    text-decoration : none;
+    color: antiquewhite;
+
+}
+
+nav {
+
+    color: antiquewhite;
+    background-image: url(https://i.pinimg.com/564x/53/d3/2e/53d32e4bea042152d39e34fd94d87fa5.jpg);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 30px;
+    
+
+
+}
+
+
+h1,
+h2 {
+
+    padding: 10px;
+    color: antiquewhite;
+    font-style: italic;
+}
+
+footer {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: px;
+
+}
+
+div.p1,
+div.p2,
+div.p3,
+div.p4,
+div.p5 {
+    line-height: 25px;
+    font-size: 17px;
+    text-align: justify;
+    margin: 5px;
+    color: antiquewhite;
+    font-style: italic;
+}
+
+
+p {
+    line-height: 23px;
+    font-size: 17px;
+    text-align: justify;
+    margin: 5px;
+    color: antiquewhite;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+.container,
+.container2 {
+
+    display: flex;
+    margin: 0;
+}
+
+
+
+
+
+
+
+.p1 {
+    width: 60%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14PX;
+    text-align: center;
+}
+
+.p2 {
+
+    
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+
+}
+
+.p3 {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+
+
+}
+
+.p4 {
+    width: 30%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p5 {
+    width: 70%;
+    height: 300px;
+    text-align: center;
+    align-items: center;
+    
+
+}
+
+.centro {
+    text-align: center;
+}

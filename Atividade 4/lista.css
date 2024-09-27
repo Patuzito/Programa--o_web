@@ -1,0 +1,62 @@
+body {
+    background-image: url(https://i.pinimg.com/564x/f4/30/ae/f430ae0cd260924e8bd192490adc1ee3.jpg);
+}
+
+
+* {
+    margin: 0;
+}
+
+
+header {
+    text-align: right;
+    color: rgb(234, 221, 198);
+    background-image: url(https//i.pinimg.com/564x/f4/30/ae/f430ae0cd260924e8bd192490adc1ee3.jpg);
+
+    font-size: 20px;
+}
+ 
+a {
+    text-decoration : none;
+    color: antiquewhite;
+
+}
+
+nav {
+
+    color: antiquewhite;
+    background-image: url(https://i.pinimg.com/564x/53/d3/2e/53d32e4bea042152d39e34fd94d87fa5.jpg);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 30px;
+    
+
+
+}
+
+
+h1,
+h2 {
+    padding: 10px;
+    color: antiquewhite;
+    font-style: italic;
+}
+
+footer {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: px;
+
+}
+
+
+ul {
+    color: antiquewhite;
+}

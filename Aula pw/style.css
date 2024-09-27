@@ -1,0 +1,107 @@
+body {
+    background-image: url(https://i.pinimg.com/564x/08/5b/09/085b091bb414b2700d07d83ef9ea8afb.jpg);
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.established {
+    font-style: italic;
+}
+
+h1, h2, p{
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.menu {
+    width: 88%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+img {
+    display: block;
+    margin-top: -25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+
+.bottom-line{
+    margin-top: 25px;
+}
+
+h1,h2{
+    font-family: impact, serif;
+
+}
+
+.item p{
+  
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.flavor, .dessert {
+    text-align: left;
+    width: 75%;
+    font-size: 18px;
+
+}
+
+
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+footer {
+    font-size: 14px;
+}
+
+.address {
+    margin-bottom: 5px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+
+
+.item{
+    display: flex;
+    align-items: center;
+}
+
+.botão {
+    background-color: brown;
+    border-radius: 20px;
+}
+
+
+
